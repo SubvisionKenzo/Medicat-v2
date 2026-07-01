@@ -1,0 +1,54 @@
+------------------ MedicatUSB v2 ------------------
+
+MedicatUSB v2 est une version entièrement refaite,
+fiable et propre, inspirée de l’ancien projet Medicat.
+Ce n’est pas Medicat original, mais une nouvelle
+version développée avec des outils similaires,
+sélectionnés pour être sûrs et non suspects.
+
+Le but de MedicatUSB v2 est de fournir une clé USB
+bootable de réparation, stable et sécurisée, sans
+logiciels douteux. Ce projet existe pour proposer une
+alternative saine et vérifiée, après l’abandon du
+Medicat original et l’apparition de versions non sûres.
+
+--------------------------- Info --------------------------
+
+Aucune désactivation d'antivirus n'ai attendu !
+
+---------------------- Avertissement ----------------------
+
+Si vous n’avez pas confiance en cet outil,
+vous pouvez quitter l’installation maintenant.
+
+Si vous souhaitez continuer, cliquez sur “Suivant”.
+
+-------------
+
+Anglish :
+
+------------------ MedicatUSB v2 ------------------
+
+MedicatUSB v2 is a completely rebuilt,
+reliable, and clean version inspired by the original Medicat project.
+It is not the original Medicat, but a new
+version developed using similar tools,
+selected for being safe and trustworthy.
+
+The goal of MedicatUSB v2 is to provide a stable,
+secure, bootable USB repair drive free
+from questionable software. This project exists to offer a
+safe and verified alternative following the
+discontinuation of the original Medicat and the
+emergence of unsafe versions.
+
+--------------------------- Info --------------------------
+
+No need to disable your antivirus!
+
+---------------------- Warning ----------------------
+
+If you do not trust this tool,
+you can exit the installation now.
+
+If you wish to continue, click "Next".

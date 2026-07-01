@@ -1,0 +1,56 @@
+MediCat v2 – Projet indépendant inspiré de Medicat 2004
+
+Ce projet n’a pas pour but d’installer ou de remplacer la version originale de Medicat.
+Il s’adresse aux utilisateurs qui ont rencontré des problèmes avec certaines versions téléchargées
+sur Internet (faux positifs antivirus, fichiers modifiés, versions non officielles) et qui souhaitent une alternative propre, stable et sécurisée.
+
+Je m’appelle Kenzo (SubisionKenzo).
+Ayant moi-même rencontré des versions de Medicat contenant des fichiers suspects, j’ai décidé
+de reconstruire une version minimaliste, safe, et entièrement refaite à zéro.
+
+MediCat v2 propose :
+
+- un environnement Ventoy propre et thémé
+
+- PortableApps en version clean
+
+- des outils fiables (Kaspersky, Rescuezilla, etc.)
+
+- une installation simple via un installateur léger
+
+- une clé USB de dépannage prête à l’emploi
+
+- une base inspirée de Medicat 2004, mais reconstruite et vérifiée
+
+Ce projet est indépendant, non officiel, et respecte l’esprit de Medicat tout en offrant
+une alternative sécurisée pour les utilisateurs qui souhaitent une solution simple et sans risque.
+
+Bonne installation et bonne utilisation.
+
+------------
+
+anglish : 
+
+MediCat v2 – Independent Project Inspired by Medicat 2004
+
+This project is not intended to install or replace the original Medicat version.
+It is aimed at users who have encountered problems with certain versions downloaded 
+from the Internet (false antivirus positives, modified files, unofficial versions) and who want a clean, stable, and secure alternative.
+My name is Kenzo (SubisionKenzo). Having personally come across Medicat versions containing suspicious files, I decided to rebuild a minimalist,
+safe version from scratch.
+
+MediCat v2 offers:
+
+- a clean and themed Ventoy environment
+
+- PortableApps in a clean version
+
+- reliable tools (Kaspersky, Rescuezilla, etc.)
+
+- simple installation via a lightweight installer
+
+- a ready-to-use rescue USB drive
+
+- a base inspired by Medicat 2004, but rebuilt and verified
+
+This project is independent, unofficial, and respects the spirit of Medicat while offering a safe alternative for users who want a simple, risk-free solution. Enjoy the installation and have fun using it.
