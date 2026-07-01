@@ -3,7 +3,7 @@ Medicat v2 est un projet visant à proposer une alternative moderne et simplifi�
 Ce projet n’installe pas Medicat officiel, mais une version alternative, conçue pour offrir une expérience plus stable, plus accessible et plus sécurisée aux utilisateurs.
 
 L’objectif est de fournir un environnement de dépannage complet, utilisable sur une clé USB bootable, sans les difficultés techniques souvent rencontrées avec Medicat original.
-
+![logo](Medicatv2.png) 
 -------------------------------------------
 #🎯 Objectif du projet
 Medicat v2 a été créé pour répondre à un besoin réel :
